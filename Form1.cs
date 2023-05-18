@@ -9,6 +9,10 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SQLite;
 
+//Emmanuel Baena Giraldo, 16/05/2023
+//Lo que hace el codigo es operar sobre la informacion que almacenemos a traves de CRUD 
+//y lo botones con los cuales el usuario puede interactuar
+
 namespace CRUD
 {
     public partial class Form1 : Form
